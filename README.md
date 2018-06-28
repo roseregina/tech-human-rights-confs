@@ -6,19 +6,19 @@ Please add, update, extend, and fork.
 
 **2018**
 
-| CfP ends         | Name        	 | Location     |  Conference dates        | Notes        |
-| ---------------- | ------------- | ------------ | -------------------------| ------------ |
+| CfP ends         | Name        	 | Location     |  Conference dates        | Languages    | Notes       |
+| ---------------- | ------------- | ------------ | -------------------------| ------------ |------------ |
 
 
 
 **2019**
 
-| CfP ends         | Name        	 | Location     |  Conference dates        | Notes        |
-| ---------------- | ------------- | ------------ | -------------------------| ------------ |
+| CfP ends         | Name        	 | Location     |  Conference dates        | Languages    | Notes       |
+| ---------------- | ------------- | ------------ | -------------------------| ------------ |------------ |
 
 
 
 **2020**
 
-| CfP ends         | Name        	 | Location     |  Conference dates        | Notes        |
-| ---------------- | ------------- | ------------ | -------------------------| ------------ |
+| CfP ends         | Name        	 | Location     |  Conference dates        | Languages    | Notes       |
+| ---------------- | ------------- | ------------ | -------------------------| ------------ |------------ |
